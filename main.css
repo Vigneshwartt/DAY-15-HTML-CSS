@@ -1,0 +1,21 @@
+.main{
+    background-image: url(./image/bg-desktop.svg);
+    background-color: #9f179f;
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    color: white;
+}
+.one{
+}
+.btn{
+    :hover{
+    background-color: blueviolet;
+    color: white;
+}
+    
+}
+.icons{
+    :hover{
+        background-color: blueviolet;
+    }
+}
